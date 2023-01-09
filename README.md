@@ -3,7 +3,7 @@
 * Verify that the website/ application's connection is secure
 * Test the application's ability to load and function correctly on different devices
 * Test the calculations for different leasing scenarios
-*Testing the application's usability and user experience
+* Testing the application's usability and user experience
 * Testing the application's handling of localization and translation
 
 
