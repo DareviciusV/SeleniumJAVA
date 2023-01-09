@@ -28,7 +28,7 @@ To run the tests, use the following command:
 ### mvn clean test
 ## Test Method 1: Leasing Calculator
 This test method opens the bank's website, fills out the leasing calculator form, and submits it. It then calculates the expected monthly payment and compares it to the actual monthly payment displayed on the website.
-## Test Method 2: Leasing Calculator
+## Test Method 2: Secure Connection
 This test method checks if the connection to the bank's website is secure by verifying the response code.
 
 ## Notes:
