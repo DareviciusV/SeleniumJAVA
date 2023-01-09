@@ -1,4 +1,13 @@
 # Selenium Java TestNG
+## Prioritized test plan
+* Verify that the website/ application's connection is secure
+* Test the application's ability to load and function correctly on different devices
+* Test the calculations for different leasing scenarios
+*Testing the application's usability and user experience
+* Testing the application's handling of localization and translation
+
+
+To verify the functionality of the calculator, it is important to first ensure that you are connecting to a secure BANK website(Not a Phishing one). You should also check that the website loads correctly and that certain elements are present and functioning as expected. Once these initial checks have been completed, you can then proceed to test different scenarios and inputs to verify the calculator's behavior. It is also recommended to test the calculator's performance and functionality on different languages, as well as on different devices. Additionally, when testing the calculator, it is important to ensure that any buttons or functionality related to applying for a loan are working properly and that users are able to easily access them."
 
 ## Description
 
