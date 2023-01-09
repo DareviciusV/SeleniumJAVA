@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T10:24:52 EET" name="Default suite" finished-at="2023-01-09T10:24:54 EET" duration-ms="2715">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T10:24:52 EET" name="Default test" finished-at="2023-01-09T10:24:54 EET" duration-ms="2715">
+      <class name="tests.TestMethod_SecureConnection">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:tests.TestMethod_SecureConnection@27f981c6]" started-at="2023-01-09T10:24:52 EET" name="beforetest" finished-at="2023-01-09T10:24:54 EET" duration-ms="2543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="testConnectionSecurity()[pri:0, instance:tests.TestMethod_SecureConnection@27f981c6]" started-at="2023-01-09T10:24:54 EET" name="testConnectionSecurity" finished-at="2023-01-09T10:24:54 EET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConnectionSecurity -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:tests.TestMethod_SecureConnection@27f981c6]" started-at="2023-01-09T10:24:54 EET" name="aftertest" finished-at="2023-01-09T10:24:54 EET" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- tests.TestMethod_SecureConnection -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
