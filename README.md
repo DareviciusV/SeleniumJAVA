@@ -1,4 +1,4 @@
-Selenium Java TestNG
+#Selenium Java TestNG
 This repository contains an example project for testing the leasing calculator and secure connection of a bank's website using Selenium and TestNG.
 
 Dependencies
