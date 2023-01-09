@@ -22,6 +22,6 @@ This test method opens the bank's website, fills out the leasing calculator form
 ### Test Method 2: Leasing Calculator
 This test method checks if the connection to the bank's website is secure by verifying the response code.
 
-##Notes:
+## Notes:
 Install via TESTNG for Eclipse via Marketplace:
 https://marketplace.eclipse.org/content/testng-eclipse
